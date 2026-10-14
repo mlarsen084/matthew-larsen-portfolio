@@ -32,7 +32,13 @@ def video(item, sizes="(max-width: 700px) 86vw, 520px"):
 
 def gallery(id, label, items, kind="", videos=None):
     count = len(items) + len(videos or [])
-    figures = ''.join(video(x) for x in videos or []) + ''.join(figure(x) for x in items)
+    desktop_width = {"motion-gallery": 255, "social-gallery": 255, "page-gallery": 248,
+                     "thumbnail-gallery": 340, "photo-gallery": 570, "print-gallery": 460,
+                     "shop-gallery": 460, "landscape-gallery": 520}.get(kind, 480)
+    mobile_width = {"motion-gallery": 60, "social-gallery": 60, "page-gallery": 58,
+                    "thumbnail-gallery": 68}.get(kind, 76)
+    sizes = f"(max-width: 700px) {mobile_width}vw, {desktop_width}px"
+    figures = ''.join(video(x, sizes) for x in videos or []) + ''.join(figure(x, sizes=sizes) for x in items)
     return f'<div class="gallery {kind}"><div class="gallery-bar"><h4 id="{id}-label">{e(label)}</h4><div class="rail-controls" hidden><span class="rail-count" aria-hidden="true">1 / {count}</span><button type="button" data-direction="-1" aria-label="Previous items: {e(label)}" aria-controls="{id}">←</button><button type="button" data-direction="1" aria-label="Next items: {e(label)}" aria-controls="{id}">→</button></div></div><div class="rail" id="{id}" tabindex="0" role="region" aria-labelledby="{id}-label">{figures}</div><p class="swipe-note">Scroll sideways to see more <span aria-hidden="true">→</span></p></div>'
 
 def chapter(number, id, title, description):
