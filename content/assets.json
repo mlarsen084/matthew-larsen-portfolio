@@ -1,0 +1,1389 @@
+{
+  "nicolas-fudge-cover": {
+    "width": 1800,
+    "height": 1012,
+    "sources": [
+      {
+        "src": "assets/images/nicolas-fudge-cover-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/nicolas-fudge-cover-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/nicolas-fudge-cover-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/nicolas-fudge/cover.jpg"
+  },
+  "nicolas-fudge-gallery-03": {
+    "width": 1800,
+    "height": 1273,
+    "sources": [
+      {
+        "src": "assets/images/nicolas-fudge-gallery-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-03-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/nicolas-fudge/gallery-03.jpg"
+  },
+  "nicolas-fudge-gallery-05": {
+    "width": 1800,
+    "height": 1273,
+    "sources": [
+      {
+        "src": "assets/images/nicolas-fudge-gallery-05-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-05-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-05-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/nicolas-fudge/gallery-05.jpg"
+  },
+  "nicolas-fudge-gallery-06": {
+    "width": 1800,
+    "height": 1273,
+    "sources": [
+      {
+        "src": "assets/images/nicolas-fudge-gallery-06-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-06-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-06-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/nicolas-fudge/gallery-06.jpg"
+  },
+  "nicolas-fudge-gallery-07": {
+    "width": 1800,
+    "height": 1118,
+    "sources": [
+      {
+        "src": "assets/images/nicolas-fudge-gallery-07-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-07-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-07-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/nicolas-fudge/gallery-07.jpg"
+  },
+  "cap-rates-now-cap-rates-now-overview-poster": {
+    "width": 1280,
+    "height": 720,
+    "sources": [
+      {
+        "src": "assets/images/cap-rates-now-cap-rates-now-overview-poster-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/cap-rates-now-cap-rates-now-overview-poster-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/cap-rates-now-cap-rates-now-overview-poster-1800.webp",
+        "width": 1280
+      }
+    ],
+    "origin": "current-portfolio/media/cases/cap-rates-now/cap-rates-now-overview-poster.jpg"
+  },
+  "nicolas-fudge-gallery-08": {
+    "width": 1800,
+    "height": 1273,
+    "sources": [
+      {
+        "src": "assets/images/nicolas-fudge-gallery-08-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-08-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/nicolas-fudge-gallery-08-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/nicolas-fudge/gallery-08.jpg"
+  },
+  "cap-rates-now-gallery-03": {
+    "width": 1800,
+    "height": 1200,
+    "sources": [
+      {
+        "src": "assets/images/cap-rates-now-gallery-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-03-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/cap-rates-now/gallery-03.jpg"
+  },
+  "cap-rates-now-gallery-05": {
+    "width": 1800,
+    "height": 1350,
+    "sources": [
+      {
+        "src": "assets/images/cap-rates-now-gallery-05-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-05-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-05-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/cap-rates-now/gallery-05.jpg"
+  },
+  "cap-rates-now-gallery-07": {
+    "width": 1800,
+    "height": 1200,
+    "sources": [
+      {
+        "src": "assets/images/cap-rates-now-gallery-07-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-07-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-07-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/cap-rates-now/gallery-07.jpg"
+  },
+  "cap-rates-now-gallery-06": {
+    "width": 1800,
+    "height": 1200,
+    "sources": [
+      {
+        "src": "assets/images/cap-rates-now-gallery-06-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-06-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-06-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/cases/cap-rates-now/gallery-06.jpg"
+  },
+  "cap-rates-now-gallery-08": {
+    "width": 1440,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/cap-rates-now-gallery-08-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-08-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-08-1800.webp",
+        "width": 1440
+      }
+    ],
+    "origin": "current-portfolio/media/cases/cap-rates-now/gallery-08.jpg"
+  },
+  "cap-rates-now-gallery-09": {
+    "width": 1441,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/cap-rates-now-gallery-09-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-09-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/cap-rates-now-gallery-09-1800.webp",
+        "width": 1441
+      }
+    ],
+    "origin": "current-portfolio/media/cases/cap-rates-now/gallery-09.jpg"
+  },
+  "wcal-capital-gains-tax": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-capital-gains-tax-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-capital-gains-tax-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-capital-gains-tax-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/capital-gains-tax.webp"
+  },
+  "wcal-cost-of-living": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-cost-of-living-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-cost-of-living-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-cost-of-living-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/cost-of-living.webp"
+  },
+  "wcal-crime": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-crime-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-crime-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-crime-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/crime.webp"
+  },
+  "wcal-energy": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-energy-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-energy-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-energy-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/energy.webp"
+  },
+  "wcal-education": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-education-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-education-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-education-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/education.webp"
+  },
+  "wcal-food-prices": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-food-prices-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-food-prices-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-food-prices-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/food-prices.webp"
+  },
+  "wcal-health": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-health-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-health-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-health-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/health.webp"
+  },
+  "wcal-hospital": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-hospital-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-hospital-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-hospital-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/hospital.webp"
+  },
+  "wcal-kiwibuild": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-kiwibuild-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-kiwibuild-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-kiwibuild-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/kiwibuild.webp"
+  },
+  "wcal-supermarket": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-supermarket-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-supermarket-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-supermarket-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/supermarket.webp"
+  },
+  "wcal-vaccines": {
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/wcal-vaccines-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/wcal-vaccines-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/wcal-vaccines-1800.webp",
+        "width": 1600
+      }
+    ],
+    "origin": "current-portfolio/media/cases/we-cant-afford-labour/vaccines.webp"
+  },
+  "photo-event-panel": {
+    "width": 2400,
+    "height": 1101,
+    "sources": [
+      {
+        "src": "assets/images/photo-event-panel-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-event-panel-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-event-panel-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/event-panel.webp"
+  },
+  "photo-on-camera-interview": {
+    "width": 2048,
+    "height": 1365,
+    "sources": [
+      {
+        "src": "assets/images/photo-on-camera-interview-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-on-camera-interview-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-on-camera-interview-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/on-camera-interview.webp"
+  },
+  "photo-protest-crowd": {
+    "width": 2048,
+    "height": 1365,
+    "sources": [
+      {
+        "src": "assets/images/photo-protest-crowd-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-protest-crowd-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-protest-crowd-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/protest-crowd.webp"
+  },
+  "photo-river-landscape": {
+    "width": 2048,
+    "height": 1365,
+    "sources": [
+      {
+        "src": "assets/images/photo-river-landscape-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-river-landscape-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-river-landscape-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/river-landscape.webp"
+  },
+  "photo-event-portrait": {
+    "width": 2400,
+    "height": 1600,
+    "sources": [
+      {
+        "src": "assets/images/photo-event-portrait-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-event-portrait-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-event-portrait-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/event-portrait.webp"
+  },
+  "photo-whitmore-street": {
+    "width": 2048,
+    "height": 1365,
+    "sources": [
+      {
+        "src": "assets/images/photo-whitmore-street-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-whitmore-street-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-whitmore-street-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/whitmore-street.webp"
+  },
+  "photo-parliament-flags": {
+    "width": 2048,
+    "height": 1365,
+    "sources": [
+      {
+        "src": "assets/images/photo-parliament-flags-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-parliament-flags-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-parliament-flags-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/parliament-flags.webp"
+  },
+  "video-bureaucrats-paper-style": {
+    "width": 720,
+    "height": 1280,
+    "sources": [
+      {
+        "src": "assets/images/video-bureaucrats-paper-style-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/video-bureaucrats-paper-style-960.webp",
+        "width": 720
+      },
+      {
+        "src": "assets/images/video-bureaucrats-paper-style-1800.webp",
+        "width": 720
+      }
+    ],
+    "origin": "current-portfolio/media/reel/bureaucrats-paper-style-poster.jpg"
+  },
+  "video-shrinking-economy": {
+    "width": 720,
+    "height": 1280,
+    "sources": [
+      {
+        "src": "assets/images/video-shrinking-economy-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/video-shrinking-economy-960.webp",
+        "width": 720
+      },
+      {
+        "src": "assets/images/video-shrinking-economy-1800.webp",
+        "width": 720
+      }
+    ],
+    "origin": "current-portfolio/media/reel/shrinking-economy-poster.jpg"
+  },
+  "photo-lounge-discussion": {
+    "width": 2048,
+    "height": 1365,
+    "sources": [
+      {
+        "src": "assets/images/photo-lounge-discussion-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-lounge-discussion-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-lounge-discussion-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/lounge-discussion.webp"
+  },
+  "video-ara-rates-grab-reel": {
+    "width": 720,
+    "height": 1280,
+    "sources": [
+      {
+        "src": "assets/images/video-ara-rates-grab-reel-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/video-ara-rates-grab-reel-960.webp",
+        "width": 720
+      },
+      {
+        "src": "assets/images/video-ara-rates-grab-reel-1800.webp",
+        "width": 720
+      }
+    ],
+    "origin": "current-portfolio/media/reel/ara-rates-grab-reel-poster.jpg"
+  },
+  "photo-event-audience": {
+    "width": 2400,
+    "height": 1600,
+    "sources": [
+      {
+        "src": "assets/images/photo-event-audience-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/photo-event-audience-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/photo-event-audience-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "current-portfolio/media/photography/portfolio/event-audience.webp"
+  },
+  "taxpayer-manifesto-motion": {
+    "width": 1080,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/images/taxpayer-manifesto-motion-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/taxpayer-manifesto-motion-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/taxpayer-manifesto-motion-1800.webp",
+        "width": 1080
+      }
+    ],
+    "origin": "current-portfolio/media/publications/taxpayer-manifesto-poster.jpg"
+  },
+  "video-tax-vs-levy": {
+    "width": 720,
+    "height": 1280,
+    "sources": [
+      {
+        "src": "assets/images/video-tax-vs-levy-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/video-tax-vs-levy-960.webp",
+        "width": 720
+      },
+      {
+        "src": "assets/images/video-tax-vs-levy-1800.webp",
+        "width": 720
+      }
+    ],
+    "origin": "current-portfolio/media/reel/tax-vs-levy-poster.jpg"
+  },
+  "little-red-book-motion": {
+    "width": 1080,
+    "height": 1350,
+    "sources": [
+      {
+        "src": "assets/images/little-red-book-motion-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/little-red-book-motion-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/little-red-book-motion-1800.webp",
+        "width": 1080
+      }
+    ],
+    "origin": "current-portfolio/media/publications/little-red-book-poster.jpg"
+  },
+  "manifesto-01": {
+    "width": 1273,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/manifesto-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/manifesto-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/manifesto-01-1800.webp",
+        "width": 1273
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "manifesto-03": {
+    "width": 1273,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/manifesto-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/manifesto-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/manifesto-03-1800.webp",
+        "width": 1273
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "manifesto-04": {
+    "width": 1273,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/manifesto-04-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/manifesto-04-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/manifesto-04-1800.webp",
+        "width": 1273
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "manifesto-05": {
+    "width": 1273,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/manifesto-05-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/manifesto-05-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/manifesto-05-1800.webp",
+        "width": 1273
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "manifesto-06": {
+    "width": 1273,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/manifesto-06-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/manifesto-06-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/manifesto-06-1800.webp",
+        "width": 1273
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "red-book-01": {
+    "width": 1278,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/red-book-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/red-book-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/red-book-01-1800.webp",
+        "width": 1278
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "red-book-02": {
+    "width": 1278,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/red-book-02-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/red-book-02-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/red-book-02-1800.webp",
+        "width": 1278
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "red-book-04": {
+    "width": 1278,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/red-book-04-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/red-book-04-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/red-book-04-1800.webp",
+        "width": 1278
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "red-book-05": {
+    "width": 1278,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/red-book-05-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/red-book-05-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/red-book-05-1800.webp",
+        "width": 1278
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "red-book-06": {
+    "width": 1278,
+    "height": 1800,
+    "sources": [
+      {
+        "src": "assets/images/red-book-06-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/red-book-06-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/red-book-06-1800.webp",
+        "width": 1278
+      }
+    ],
+    "origin": "current-portfolio/docs/publications/"
+  },
+  "branding-mcdowall-print-01": {
+    "width": 1426,
+    "height": 919,
+    "sources": [
+      {
+        "src": "assets/images/branding-mcdowall-print-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-01-1800.webp",
+        "width": 1426
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/branding-mcdowall-print"
+  },
+  "branding-mcdowall-print-03": {
+    "width": 3840,
+    "height": 3520,
+    "sources": [
+      {
+        "src": "assets/images/branding-mcdowall-print-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-03-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/branding-mcdowall-print"
+  },
+  "branding-mcdowall-print-04": {
+    "width": 3840,
+    "height": 3783,
+    "sources": [
+      {
+        "src": "assets/images/branding-mcdowall-print-04-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-04-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-04-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/branding-mcdowall-print"
+  },
+  "branding-mcdowall-print-02": {
+    "width": 3840,
+    "height": 2880,
+    "sources": [
+      {
+        "src": "assets/images/branding-mcdowall-print-02-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-02-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/branding-mcdowall-print-02-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/branding-mcdowall-print"
+  },
+  "bowmont-meats-01": {
+    "width": 3840,
+    "height": 1529,
+    "sources": [
+      {
+        "src": "assets/images/bowmont-meats-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/bowmont-meats-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/bowmont-meats-01-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/bowmont-meats"
+  },
+  "beer-series-01": {
+    "width": 3840,
+    "height": 2731,
+    "sources": [
+      {
+        "src": "assets/images/beer-series-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/beer-series-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/beer-series-01-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/beer-series"
+  },
+  "card-pack-dieline-test-03": {
+    "width": 1920,
+    "height": 1751,
+    "sources": [
+      {
+        "src": "assets/images/card-pack-dieline-test-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/card-pack-dieline-test-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/card-pack-dieline-test-03-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/card-pack-dieline-test"
+  },
+  "menus-02": {
+    "width": 1920,
+    "height": 1451,
+    "sources": [
+      {
+        "src": "assets/images/menus-02-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/menus-02-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/menus-02-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/menus"
+  },
+  "ilt-booklet-02": {
+    "width": 1920,
+    "height": 1440,
+    "sources": [
+      {
+        "src": "assets/images/ilt-booklet-02-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/ilt-booklet-02-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/ilt-booklet-02-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/ilt-booklet"
+  },
+  "menus-03": {
+    "width": 1920,
+    "height": 1500,
+    "sources": [
+      {
+        "src": "assets/images/menus-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/menus-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/menus-03-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/menus"
+  },
+  "ilt-booklet-01": {
+    "width": 1920,
+    "height": 1440,
+    "sources": [
+      {
+        "src": "assets/images/ilt-booklet-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/ilt-booklet-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/ilt-booklet-01-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/ilt-booklet"
+  },
+  "menus-01": {
+    "width": 3840,
+    "height": 3450,
+    "sources": [
+      {
+        "src": "assets/images/menus-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/menus-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/menus-01-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/menus"
+  },
+  "printing-workplace-equipment-gallery-01": {
+    "width": 1862,
+    "height": 1227,
+    "sources": [
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-01-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/printing-workplace-equipment-gallery"
+  },
+  "garden-tags-03": {
+    "width": 3840,
+    "height": 5120,
+    "sources": [
+      {
+        "src": "assets/images/garden-tags-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/garden-tags-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/garden-tags-03-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/garden-tags"
+  },
+  "printing-workplace-equipment-gallery-02": {
+    "width": 1843,
+    "height": 1213,
+    "sources": [
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-02-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-02-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-02-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/printing-workplace-equipment-gallery"
+  },
+  "printing-workplace-equipment-gallery-03": {
+    "width": 1879,
+    "height": 1240,
+    "sources": [
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-03-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-03-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/printing-workplace-equipment-gallery-03-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/printing-workplace-equipment-gallery"
+  },
+  "otatara-mtb-hazy-pale-ale-label-mockup-02": {
+    "width": 3840,
+    "height": 2731,
+    "sources": [
+      {
+        "src": "assets/images/otatara-mtb-hazy-pale-ale-label-mockup-02-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/otatara-mtb-hazy-pale-ale-label-mockup-02-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/otatara-mtb-hazy-pale-ale-label-mockup-02-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/otatara-mtb-hazy-pale-ale-label-mockup"
+  },
+  "labels-branding-01": {
+    "width": 3840,
+    "height": 2160,
+    "sources": [
+      {
+        "src": "assets/images/labels-branding-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/labels-branding-01-960.webp",
+        "width": 960
+      },
+      {
+        "src": "assets/images/labels-branding-01-1800.webp",
+        "width": 1800
+      }
+    ],
+    "origin": "https://mlarsen084.myportfolio.com/labels-branding"
+  },
+  "social-wall-01": {
+    "width": 900,
+    "height": 1124,
+    "sources": [
+      {
+        "src": "assets/images/social-wall-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/social-wall-01-960.webp",
+        "width": 900
+      },
+      {
+        "src": "assets/images/social-wall-01-1800.webp",
+        "width": 900
+      }
+    ],
+    "origin": "current-portfolio/media/wall/wall-01.jpg"
+  },
+  "social-wall-17": {
+    "width": 900,
+    "height": 1125,
+    "sources": [
+      {
+        "src": "assets/images/social-wall-17-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/social-wall-17-960.webp",
+        "width": 900
+      },
+      {
+        "src": "assets/images/social-wall-17-1800.webp",
+        "width": 900
+      }
+    ],
+    "origin": "current-portfolio/media/wall/wall-17.jpg"
+  },
+  "social-wall-14": {
+    "width": 900,
+    "height": 1125,
+    "sources": [
+      {
+        "src": "assets/images/social-wall-14-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/social-wall-14-960.webp",
+        "width": 900
+      },
+      {
+        "src": "assets/images/social-wall-14-1800.webp",
+        "width": 900
+      }
+    ],
+    "origin": "current-portfolio/media/wall/wall-14.jpg"
+  },
+  "social-wall-19": {
+    "width": 900,
+    "height": 1125,
+    "sources": [
+      {
+        "src": "assets/images/social-wall-19-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/social-wall-19-960.webp",
+        "width": 900
+      },
+      {
+        "src": "assets/images/social-wall-19-1800.webp",
+        "width": 900
+      }
+    ],
+    "origin": "current-portfolio/media/wall/wall-19.jpg"
+  },
+  "social-wall-focus-04": {
+    "width": 900,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/images/social-wall-focus-04-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/social-wall-focus-04-960.webp",
+        "width": 900
+      },
+      {
+        "src": "assets/images/social-wall-focus-04-1800.webp",
+        "width": 900
+      }
+    ],
+    "origin": "current-portfolio/media/wall/wall-focus-04.jpg"
+  },
+  "social-wall-focus-01": {
+    "width": 900,
+    "height": 1274,
+    "sources": [
+      {
+        "src": "assets/images/social-wall-focus-01-480.webp",
+        "width": 480
+      },
+      {
+        "src": "assets/images/social-wall-focus-01-960.webp",
+        "width": 900
+      },
+      {
+        "src": "assets/images/social-wall-focus-01-1800.webp",
+        "width": 900
+      }
+    ],
+    "origin": "current-portfolio/media/wall/wall-focus-01.jpg"
+  }
+}
